@@ -74,7 +74,7 @@ def sstc():
 
 # 程序主体
 def app():
-    sttime = ['12时26分', '17时26分', '21时28分', '7时26分']
+    sttime = ['12时26分', '17时26分', '21时28分']
     while True:
         global t, tget, th, tm, ts
         idle_time = get_idle_time()
