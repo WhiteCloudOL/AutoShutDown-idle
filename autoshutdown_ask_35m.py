@@ -2,6 +2,7 @@
 AppName:Auto-Shutdown
 Description:Automatically shut down when the computer is idle.
 Created By WhiteCloudCN
+Version:V1.0pre
 """
 
 import os, ctypes, time, tkinter
